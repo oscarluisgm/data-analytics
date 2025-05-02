@@ -1,4 +1,4 @@
-# Data Analytics Practice
+# Data Analytics Practice (Based on FreeCodeCamp.org)
 
 ## Jupyter Notebook (Ubuntu)
 
@@ -10,9 +10,9 @@
 ## sys path reference to append lib modules to a ipynb in jupyter 
 
 import sys  
-sys.path.append('/home/oscar/py_envs/lib/python3.12/site-packages')  
+sys.path.append('/home/user/py_envs/lib/python3.12/site-packages')  
 
-[👨‍💼My LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
+[👨‍💼Oscar Guerra's LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
 
 >This is an Oscar's GitHub repository for Data Analytics resources with Python
 
