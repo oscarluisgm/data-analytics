@@ -1,7 +1,5 @@
 # Data Analytics Practice
 
->This is an Oscar's GitHub repository for Data Analytics resources with Python
-
 ## Jupyter Notebook (Ubuntu)
 
 1-python3 -m venv ~/py_envs
@@ -15,6 +13,8 @@ import sys
 sys.path.append('/home/oscar/py_envs/lib/python3.12/site-packages')
 
 [👨‍💼My LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
+
+>This is an Oscar's GitHub repository for Data Analytics resources with Python
 
 
 
