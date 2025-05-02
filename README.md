@@ -1,4 +1,4 @@
-# Data Analytics Practice (Based on FreeCodeCamp.org)
+# Data Analytics Practice
 
 ## Jupyter Notebook (Ubuntu)
 
