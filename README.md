@@ -2,15 +2,15 @@
 
 ## Jupyter Notebook (Ubuntu)
 
-1-python3 -m venv ~/py_envs.
-2-source ~/py_envs/bin/activate.
-3-python3 -m pip install jupyter.
-4-jupyter notebook.
+1-python3 -m venv ~/py_envs  
+2-source ~/py_envs/bin/activate  
+3-python3 -m pip install jupyter  
+4-jupyter notebook  
 
 ## sys path reference to append lib modules to a ipynb in jupyter 
 
-import sys.
-sys.path.append('/home/oscar/py_envs/lib/python3.12/site-packages').
+import sys  
+sys.path.append('/home/oscar/py_envs/lib/python3.12/site-packages')  
 
 [👨‍💼My LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
 
