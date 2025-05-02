@@ -16,6 +16,9 @@ sys.path.append('/home/user/py_envs/lib/python3.12/site-packages')
 
 >This is an Oscar's GitHub repository for Data Analytics resources with Python
 
+python3 -m venv ~/py_envs  
+source ~/py_envs/bin/activate
+
 
 
 
