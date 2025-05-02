@@ -7,7 +7,7 @@
 3-python3 -m pip install jupyter  
 4-jupyter notebook  
 
-## sys path reference to append lib modules to an .ipynb in jupyter 
+## sys path reference to append lib modules to a .ipynb in jupyter 
 
 import sys  
 sys.path.append('/home/user/py_envs/lib/python3.12/site-packages')  
