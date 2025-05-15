@@ -2,6 +2,26 @@
 
 # Data Analytics Course (Taken by Oscar Guerra) 
 
+## Points studied:
+
+**1)-Data Analytics:**   
+
+-Head, Plot Visualization with Matplotlib (more used) and Bookeh (less used).   
+
+-Excel File **Writer** and Converting a DF to Excel, and then close().   
+
+-**NumPy Arrays:**   
+
+    Selecting, slicing, forcing to get a NumPy Array OutPut
+    b[[0,2,-1]].   
+    Array Types: int64, float64, int8, unicode (U1)   
+    Dimensions and Shapes: .shape, .ndim..   
+    Statistics with Numpy .sum(), mean(), std(), min()   
+    Random.randint(), Array Evaluation (Boolean Output) and Array   
+    
+        
+
+
 ## Jupyter Notebook (Ubuntu)
 
 1-python3 -m venv ~/py_envs  
