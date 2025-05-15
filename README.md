@@ -36,6 +36,9 @@ python3 -m venv ~/py_envs
 source ~/py_envs/bin/activate  
 
 
+
+**Oscar Guerra**
+**e-mail: oscarluisgm2@gmail.com**
 [👨‍💼Oscar Guerra's LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
 
 >This is an Oscar's GitHub repository for Data Analysis with Python
