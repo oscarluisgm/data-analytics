@@ -2,9 +2,7 @@
 
 # Data Analytics Course (Taken by Oscar Guerra) 
 
-## Points studied:
-
-**1)-Data Analytics:**  
+**1)-Data Analytics (NumPy Array):**  
 
 -Head, Plot Visualization with Matplotlib (more used) and Bookeh (less used).  
 
