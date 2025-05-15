@@ -36,8 +36,8 @@ source ~/py_envs/bin/activate
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 
 **Oscar Guerra**  
-**e-mail: oscarluisgm2@gmail.com**  
-[👨‍💼Oscar Guerra's LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)  
+**📧 e-mail: oscarluisgm2@gmail.com**  
+[U+F472 LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)  
 
 >This is an Oscar's GitHub repository for Data Analysis with Python
 
