@@ -4,20 +4,33 @@
 
 ## Points studied:
 
-**1)-Data Analytics:**   
+**1)-Data Analytics:**  
 
--Head, Plot Visualization with Matplotlib (more used) and Bookeh (less used).   
+-Head, Plot Visualization with Matplotlib (more used) and Bookeh (less used).  
 
--Excel File **Writer** and Converting a DF to Excel, and then close().   
+-Excel File **Writer** and Converting a DF to Excel, and then close().  
 
--**NumPy Arrays:**   
+-**NumPy Arrays:**  
 
-    Selecting, slicing, forcing to get a NumPy Array OutPut
-    b[[0,2,-1]].   
-    Array Types: int64, float64, int8, unicode (U1)   
-    Dimensions and Shapes: .shape, .ndim..   
-    Statistics with Numpy .sum(), mean(), std(), min()   
-    Random.randint(), Array Evaluation (Boolean Output) and Array   
+    -Selecting, slicing, forcing to get a NumPy Array OutPut
+    b[[0,2,-1]].  
+    -Array Types: int64, float64, int8, unicode (U1)  
+    -Dimensions and Shapes: .shape, .ndim.  
+    -Statistics with Numpy .sum(), mean(), std(), min()  
+    -Random.randint(), Array Evaluation (Boolean Output) and Array  
+    -sys.getsizeof(int, float, str...)  
+    -np.dtype(int).itemsize:(64bit default in my OS = **8Bytes**)  
+    -np.dtype(np.int8).itemsize:(**1Byte**)  
+    -Lists Vs. Arrays: 
+       *List Size: sys.getsizeof([1]):64Bytes.  
+       *Np Array Size: np.array([1]).itemsize:8Bytes  
+       *List Performance: **%time** sum ("x^2 for x in l"):CPU total: **1.45s**  
+       *Np Array Performance: **%time** np.sum(G^2): CPU total: **57.8ms**  
+       
+       
+       
+       
+    
     
         
 
