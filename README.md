@@ -2,9 +2,7 @@
 
 # Data Analysis Course (Taken by Oscar Guerra) 
 
-**1)-NumPy Arrays:**  
-
--**NumPy Arrays:**  
+**NumPy Arrays:**  
 
     -Selecting, slicing, forcing to get a NumPy Array OutPut
     b[[0,2,-1]].  
