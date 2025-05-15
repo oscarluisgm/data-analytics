@@ -1,4 +1,8 @@
+<div style="border: 1px solid green; margin: 20px 0;">
 # Data Analytics Practice
+</div>
+
+
 ![green-divider](https://user-images.githubusercontent.com/7065401/52071924-c003ad80-2562-11e9-8297-1c6595f8a7ff.png)
 
 ## Jupyter Notebook (Ubuntu)
