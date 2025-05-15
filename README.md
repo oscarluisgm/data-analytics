@@ -2,11 +2,7 @@
 
 # Data Analytics Course (Taken by Oscar Guerra) 
 
-**1)-Data Analytics (NumPy Array):**  
-
--Head, Plot Visualization with Matplotlib (more used) and Bookeh (less used).  
-
--Excel File **Writer** and Converting a DF to Excel, and then close().  
+**1)-NumPy Arrays:**  
 
 -**NumPy Arrays:**  
 
@@ -15,7 +11,7 @@
     -Array Types: int64, float64, int8, unicode (U1)  
     -Dimensions and Shapes: .shape, .ndim.  
     -Statistics with Numpy .sum(), mean(), std(), min()  
-    -Random.randint(), Array Evaluation (Boolean Output) and Array  
+    -Array Evaluation (Boolean Output) and Array  
     -sys.getsizeof(int, float, str...)  
     -np.dtype(int).itemsize:(64bit default in my OS = **8Bytes**)  
     -np.dtype(np.int8).itemsize:(**1Byte**)  
@@ -25,14 +21,6 @@
        *List Performance: **%time** sum ("x^2 for x in l"):CPU total: **1.45s**  
        *Np Array Performance: **%time** np.sum(G^2): CPU total: **57.8ms**  
        
-       
-       
-       
-    
-    
-        
-
-
 ## Jupyter Notebook (Ubuntu)
 
 1-python3 -m venv ~/py_envs  
@@ -45,12 +33,14 @@
 import sys  
 sys.path.append('/home/user/py_envs/lib/python3.12/site-packages')  
 
+## Virtual Environment
+python3 -m venv ~/py_envs  
+source ~/py_envs/bin/activate  
+
+
 [👨‍💼Oscar Guerra's LinkedIn profile](https://ve.linkedin.com/in/oscar-luis-guerra-mata-482914a2)
 
->This is an Oscar's GitHub repository for Data Analytics resources with Python
-
-python3 -m venv ~/py_envs  
-source ~/py_envs/bin/activate
+>This is an Oscar's GitHub repository for Data Analysis with Python
 
 
 
